@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hello-world-rob
+  description: A sample backstage component
+spec:
+  type: website
+  lifecycle: production
+  owner: sample@rob-bell.net
