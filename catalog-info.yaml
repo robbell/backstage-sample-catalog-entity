@@ -3,6 +3,9 @@ kind: Component
 metadata:
   name: hello-world-rob
   description: A sample backstage component
+  tags:
+    - inner-source
+    - asos-core
 spec:
   type: website
   lifecycle: production
