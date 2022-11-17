@@ -7,6 +7,6 @@ metadata:
     - inner-source
     - asos-core
 spec:
-  type: website
+  type: library
   lifecycle: production
   owner: sample@rob-bell.net
