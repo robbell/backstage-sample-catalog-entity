@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hello-world-rob-new
+  description: A sample backstage component
+  tags:
+    - inner-source
+    - asos-core
+spec:
+  type: library
+  lifecycle: production
+  owner: sample@rob-bell.net
